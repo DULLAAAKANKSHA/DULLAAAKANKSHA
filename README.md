@@ -13,7 +13,7 @@
 
 ### 💫 About Me
 
-🎓 I'm a Master’s student in Computer Science at **SUNY Polytechnic Institute**  
+🎓 I recently completed my Master’s in Computer Science at **SUNY Polytechnic Institute**, where I focused on machine learning and NLP.     
 🤖 Passionate about **ML, NLP, and AI system optimization**  
 🛠️ Skilled in **building real-time applications** and **fine-tuning language models**  
 🚀 Focused on making machine learning **accessible, scalable, and efficient**
